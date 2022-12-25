@@ -1,0 +1,15 @@
+C:\Users\User-BT\Desktop\Struct, Const, Enum\Homework 2\Struck Enum\Struck Enum\bin\Debug\net6.0\Struck Enum.exe
+C:\Users\User-BT\Desktop\Struct, Const, Enum\Homework 2\Struck Enum\Struck Enum\bin\Debug\net6.0\Struck Enum.deps.json
+C:\Users\User-BT\Desktop\Struct, Const, Enum\Homework 2\Struck Enum\Struck Enum\bin\Debug\net6.0\Struck Enum.runtimeconfig.json
+C:\Users\User-BT\Desktop\Struct, Const, Enum\Homework 2\Struck Enum\Struck Enum\bin\Debug\net6.0\Struck Enum.dll
+C:\Users\User-BT\Desktop\Struct, Const, Enum\Homework 2\Struck Enum\Struck Enum\bin\Debug\net6.0\Struck Enum.pdb
+C:\Users\User-BT\Desktop\Struct, Const, Enum\Homework 2\Struck Enum\Struck Enum\obj\Debug\net6.0\Struck Enum.csproj.AssemblyReference.cache
+C:\Users\User-BT\Desktop\Struct, Const, Enum\Homework 2\Struck Enum\Struck Enum\obj\Debug\net6.0\Struck Enum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User-BT\Desktop\Struct, Const, Enum\Homework 2\Struck Enum\Struck Enum\obj\Debug\net6.0\Struck Enum.AssemblyInfoInputs.cache
+C:\Users\User-BT\Desktop\Struct, Const, Enum\Homework 2\Struck Enum\Struck Enum\obj\Debug\net6.0\Struck Enum.AssemblyInfo.cs
+C:\Users\User-BT\Desktop\Struct, Const, Enum\Homework 2\Struck Enum\Struck Enum\obj\Debug\net6.0\Struck Enum.csproj.CoreCompileInputs.cache
+C:\Users\User-BT\Desktop\Struct, Const, Enum\Homework 2\Struck Enum\Struck Enum\obj\Debug\net6.0\Struck Enum.dll
+C:\Users\User-BT\Desktop\Struct, Const, Enum\Homework 2\Struck Enum\Struck Enum\obj\Debug\net6.0\refint\Struck Enum.dll
+C:\Users\User-BT\Desktop\Struct, Const, Enum\Homework 2\Struck Enum\Struck Enum\obj\Debug\net6.0\Struck Enum.pdb
+C:\Users\User-BT\Desktop\Struct, Const, Enum\Homework 2\Struck Enum\Struck Enum\obj\Debug\net6.0\Struck Enum.genruntimeconfig.cache
+C:\Users\User-BT\Desktop\Struct, Const, Enum\Homework 2\Struck Enum\Struck Enum\obj\Debug\net6.0\ref\Struck Enum.dll

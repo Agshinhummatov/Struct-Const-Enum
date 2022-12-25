@@ -1,0 +1,5 @@
+C:\Users\User-BT\Desktop\Struct, Const, Enum\Homework 4\Customer\Customer\obj\Debug\net6.0\Customer.csproj.AssemblyReference.cache
+C:\Users\User-BT\Desktop\Struct, Const, Enum\Homework 4\Customer\Customer\obj\Debug\net6.0\Customer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User-BT\Desktop\Struct, Const, Enum\Homework 4\Customer\Customer\obj\Debug\net6.0\Customer.AssemblyInfoInputs.cache
+C:\Users\User-BT\Desktop\Struct, Const, Enum\Homework 4\Customer\Customer\obj\Debug\net6.0\Customer.AssemblyInfo.cs
+C:\Users\User-BT\Desktop\Struct, Const, Enum\Homework 4\Customer\Customer\obj\Debug\net6.0\Customer.csproj.CoreCompileInputs.cache
